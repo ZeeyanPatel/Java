@@ -1,0 +1,13 @@
+public class BooleanDemo 
+{
+    public static void main(String[] args) 
+    {
+        boolean isJavaFun = true;
+        boolean isRaining = false;
+        boolean hasPassed = true;
+
+        System.out.println("Is Java fun? " + isJavaFun);
+        System.out.println("Is it raining? " + isRaining);
+        System.out.println("Has the student passed? " + hasPassed);
+    }
+}
