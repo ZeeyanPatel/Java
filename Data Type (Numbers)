@@ -1,0 +1,19 @@
+public class NumberDemo 
+{
+    public static void main(String[] args) 
+   {
+        int age = 25;
+        double salary = 45000.75;
+        float height = 5.9f;
+        long population = 7800000000L;
+        short days = 365;
+        byte level = 5;
+
+        System.out.println("Age: " + age);
+        System.out.println("Salary: $" + salary);
+        System.out.println("Height: " + height + " ft");
+        System.out.println("World Population: " + population);
+        System.out.println("Days in a year: " + days);
+        System.out.println("Level: " + level);
+    }
+}
