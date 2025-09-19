@@ -1,0 +1,17 @@
+public class IdentifierDemo 
+{
+    public static void main(String[] args)
+     {
+        int age = 19;
+        double salary = 45000.50;
+        char grade = 'A';
+        String name = "ZEEYAN";
+        boolean isEmployed = true;
+
+        System.out.println("Name: " + name);
+        System.out.println("Age: " + age);
+        System.out.println("Salary: $" + salary);
+        System.out.println("Grade: " + grade);
+        System.out.println("Employed: " + isEmployed);
+    }
+}
