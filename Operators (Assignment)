@@ -1,6 +1,7 @@
-// Java program to demonstrate assignment operators
-public class AssignmentDemo {
-    public static void main(String[] args) {
+public class AssignmentDemo
+{
+    public static void main(String[] args) 
+     {
         int a = 10; // simple assignment
         System.out.println("Initial value of a: " + a);
 
